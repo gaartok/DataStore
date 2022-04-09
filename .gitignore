@@ -1,0 +1,50 @@
+# Visual Studio created directories and files
+.vs/
+x64/
+*.user
+
+# CMake created directories and files
+CMakeFiles/
+Debug/
+DataStoreTest.dir/
+ALL_BUILD.*
+DataStoreTest.*
+CMakeCache.txt
+cmake_install.cmake
+ZERO_CHECK.*
+
+# SQL database files
+*.db
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
